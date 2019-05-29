@@ -1,4 +1,4 @@
-package scripts;
+package Scripts;
 
 
 import Classes.Task;
@@ -6,7 +6,7 @@ import org.powerbot.script.PollingScript;
 import org.powerbot.script.Script;
 import org.powerbot.script.Tile;
 import org.powerbot.script.rt4.ClientContext;
-import tasks.*;
+import Tasks.*;
 
 import javax.swing.*;
 import java.util.ArrayList;
